@@ -1,6 +1,6 @@
 ### Hello world 👋
 
-Sr. content designer with GitHub Docs, formerly art museum content nerd
+Content designer at GitHub, formerly art museum content nerd
 
 <!--
 **meowius/meowius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
