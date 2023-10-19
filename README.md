@@ -1,6 +1,8 @@
 ### Hello world 👋
 
-Content designer at GitHub, formerly art museum content nerd
+Content strategist, content designer, and communicator with experience across UX and marketing content. If it's got words on it, I've probably written something for it, from apps to websites to screenplays. 💅
+
+Currently a senior content manager focusing on communicating GitHub to beginners and technologists.
 
 <!--
 **meowius/meowius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
