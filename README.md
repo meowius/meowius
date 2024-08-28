@@ -1,6 +1,6 @@
 ### Hi, I’m Annelisa 👋
 
-I'm a content strategist, content designer, and communicator with leadership experience across both UX content and marketing content. If it's got words on it, I've probably worked on it, from apps to websites to tweets. 
+I'm a content strategist, content designer, and communicator with leadership experience across both UX content and marketing content. If it's got words or visuals on it, I've probably worked on it: apps, blogs, websites, tweets, videos, press releases, screenplays, books, flyers, signage.
 
 At GitHub I’m currently a senior content manager focusing on serving the needs of developers through UX content strategy and design.
 
