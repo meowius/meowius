@@ -1,8 +1,8 @@
-### Hello world 👋
+### Hi, I’m Annelisa 👋
 
-Content strategist, content designer, and communicator with experience across UX and marketing content. If it's got words on it, I've probably written something for it, from apps to websites to screenplays. 💅
+I'm a content strategist, content designer, and communicator with leadership experience across both UX content and marketing content. If it's got words on it, I've probably worked on it, from apps to websites to tweets. 
 
-Currently a senior content manager focusing on communicating GitHub to beginners and technologists.
+At GitHub I’m currently a senior content manager focusing on serving the needs of developers through UX content strategy and design.
 
 <!--
 **meowius/meowius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
